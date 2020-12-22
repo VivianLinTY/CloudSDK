@@ -1,0 +1,16 @@
+{
+    "name": "com.xrspace.xrcloud.client.test",
+    "references": [
+        "com.xrspace.xrcloud.client"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
